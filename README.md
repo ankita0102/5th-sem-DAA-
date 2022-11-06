@@ -1,1 +1,3 @@
-# 5th-sem-DAA-
+# 5th-sem-DAA 
+
+Code for algorithms in the 5th semester of my CSE degree
